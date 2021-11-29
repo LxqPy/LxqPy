@@ -1,1 +1,1 @@
-This folder is used for archives or seomthing.
+This folder is used for archives or something.
