@@ -1,5 +1,5 @@
 
-import lxqpy.libs.display as init
+from lxqpy.libs.display import display_init as init
 
 print(init.name)
 
