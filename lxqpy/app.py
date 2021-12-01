@@ -26,3 +26,7 @@ __author__  = "LxqPy Team"
 
 # Start of the scripts.
 
+from libs.display.display_init import test
+
+test()
+

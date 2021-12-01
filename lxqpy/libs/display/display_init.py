@@ -8,6 +8,10 @@
 
 from Xlib.display import Display
 
-display = Display()
+def test():
 
-name = display.get_display_name()
+    display = Display()
+
+    name = display.get_display_name()
+
+    print(name)
