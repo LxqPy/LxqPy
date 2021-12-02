@@ -1,6 +1,6 @@
 # LxqPy
 
-![LxqPy Logo](/other/logos/logo.svg)
+![LxqPy Logo](/other/logos/logo.png)
 
 ## What is LxqPy ?
 
