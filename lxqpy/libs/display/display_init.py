@@ -10,8 +10,6 @@ from Xlib.display import Display
 
 def test():
 
-    display = Display()
+    display = Display
 
-    name = display.get_display_name()
-
-    print(name)
+    display.screen_count()
